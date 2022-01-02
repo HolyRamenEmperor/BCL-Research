@@ -1,2 +1,2 @@
-# Python-MachineLearning
-MachineLearning Projects including MIT PRIMES work
+# BCL-Research
+Biomedical Cybernetics Laboratory research
